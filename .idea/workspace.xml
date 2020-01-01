@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba96d1c-0fa6-4a13-a04d-d1e0b5921f52" name="Default Changelist" comment="" />
+    <list default="true" id="2ba96d1c-0fa6-4a13-a04d-d1e0b5921f52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/孙子兵法.mobi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中信国学大典孙子兵法1147414.azw3" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,12 +111,20 @@
       <option name="presentableId" value="Default" />
       <updated>1577076584619</updated>
       <workItem from="1577076587118" duration="491000" />
-      <workItem from="1577893416059" duration="605000" />
+      <workItem from="1577893416059" duration="1142000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1577895206673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577895206673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1096000" />
+    <option name="totallyTimeSpent" value="1633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -157,6 +168,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
